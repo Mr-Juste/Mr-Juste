@@ -11,9 +11,9 @@
 
 
 - 📚 En master d'Intelligence Artificiel et Big Data à Epitech
+- 🛠️ Analyste logiciel (Flutter, Python, Django, Fast Api, Nuxt.js, Next.js)
 - 🎓 Titulaire d'une licence en Système Informatique et Logiciel
 - 📚 En formation autodidacte continue en analyse financière
-- 🛠️ Développeur logiciel (Flutter, Python, Django, Fast Api, Nuxt.js, Next.js)
 
 ---
 
