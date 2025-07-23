@@ -73,7 +73,7 @@
 ## 🤝 Me contacter
 
 - 📧 Email : *justehodonou0@gmail.com*  
-- 🌐 LinkedIn : [linkedin.com/in/juste-hodonou](#)  
+- 🌐 LinkedIn : [https://www.linkedin.com/in/juste-hodonou](#)  
 - 🌍 Langues : 🇫🇷 Français (natif), 🇬🇧 Anglais (A2)
 
 ---
