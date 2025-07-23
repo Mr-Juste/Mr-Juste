@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Je suis Juste HODONOU 👋</h1>
 <p align="center">
-  Machine Learning Engineer passioné par les domaines de la finance et de la médecine
+  Machine Learning Engineer passionné par les domaines de la finance et de la médecine
   <br>
   📍 Basé au Bénin | 🌍 Ouvert aux opportunités à distance ou internationales
 </p>
