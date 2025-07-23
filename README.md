@@ -63,10 +63,10 @@
 
 ## 📂 Projets en cours
 
-| Projet | Description |
-|--------|-------------|
-| `ml-credit-risk` | Modèle de prédiction de défaut de remboursement bancaire (classification binaire) |
-| `portfolio-web` | Mon site personnel et portfolio open-source |
+| Projet | Description | Etat | Lien |
+|--------|-------------|------|------|
+| `ml-credit-risk` | Modèle de prédiction de défaut de remboursement bancaire (classification binaire) | En cours | Indisponible |
+| `portfolio-web` | Mon site personnel et portfolio open-source | En cours | Indisponible |
 
 ---
 
