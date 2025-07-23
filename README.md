@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi, Je suis Juste HODONOU 👋</h1>
+<p align="center">
+  Machine Learning Engineer passioné par les domaines de la finance et de la médecine
+  <br>
+  📍 Basé au Bénin | 🌍 Ouvert aux opportunités à distance ou internationales
+</p>
 
-<!--
-**Mr-Juste/Mr-Juste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📚 En master d'Intelligence Artificiel et Big Data à Epitech
+- 🎓 Titulaire d'une licence en Système Informatique et Logiciel
+- 📚 En formation autodidacte continue en finance quantitative
+- 🛠️ Développeur logiciel (Flutter, Python, Django, Fast Api, Nuxt.js, Next.js)
+
+---
+
+## 🧰 Compétences techniques
+
+### 💻 Langages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+
+### 🧠 IA / Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+
+### 🌐 Développement Web
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat)
+
+### 📱 Mobile & Desktop
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
+### 🛢️ Bases de données
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+
+### 🧪 Autres outils
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+---
+
+## 📈 Objectifs 2025
+
+- ✅ Déployer un modèle de Machine Learning dans une app web/mobile
+- 🔄 Contribuer à un projet open-source lié à l'IA
+
+---
+
+## 📂 Projets en cours
+
+| Projet | Description |
+|--------|-------------|
+| `ml-credit-risk` | Modèle de prédiction de défaut de remboursement bancaire (classification binaire) |
+| `portfolio-web` | Mon site personnel et portfolio open-source |
+
+---
+
+## 🤝 Me contacter
+
+- 📧 Email : *justehodonou0@gmail.com*  
+- 🌐 LinkedIn : [linkedin.com/in/juste-hodonou](#)  
+- 🌍 Langues : 🇫🇷 Français (natif), 🇬🇧 Anglais (A2)
+
+---
+
+<p align="center">Merci pour ta visite ! 🙌</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juste-modeste&label=Profil+visité&color=blue&style=flat" alt="Profile Views" />
+</p>
